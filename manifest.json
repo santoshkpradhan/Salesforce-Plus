@@ -3,9 +3,9 @@
 
   "manifest_version": 2,
 
-  "name": "Salesforce Event Monitor",
+  "name": "Salesforce Plus",
   "version": "1.0",
-  "description": "Salesforce Event Monitor helps you track activities by your colleagues on daily basis.",
+  "description": "Salesforce Plus helps you find Codes across Salesforce, find test class coverages, record analysis.",
 
   "background": {
     "scripts": ["js/background.js"],
